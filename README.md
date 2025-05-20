@@ -1,7 +1,7 @@
 # Мартина Стојановска, бр. на индекс 233247
 
 ## Control Flow Graph
-![cfg](https://github.com/user-attachments/assets/52762d30-f615-4968-9e34-469eeac095f1)
+![cfg](https://github.com/user-attachments/assets/0dbebe57-5a19-40ad-a3c0-13d26dad77aa)
 
 ## Цикломатска комплексност
 Цикломатската комплексност е дефинирана со формулата `V(G) = E - N + 2`, каде што:
